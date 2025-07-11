@@ -1,6 +1,14 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Sujit Adroja",
+  "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "ecommerce",
+    "shopping"
+  ],
+  "version": "1.2.0",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
